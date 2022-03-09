@@ -1,0 +1,21 @@
+Structure of this repo:
+
+-> contracts: holds the solidity files, associated information needed
+   for verification on etherscan (etc)
+
+   Note that I dev/test/deploy on Remix. Hopefully soon I'll transition
+   to using Truffle/Hardhat/Brownie for more traceable testing/local dev.
+
+-> nftgifs: contains the original gifs Michael sent me.
+
+-> nftmp4s: just converted the gifs to mp4s and generates the 'stacked'
+   versions using ffmpeg (see tests/converter.py)
+
+-> metadata: hosts json files corresponding to each nft - this gets updated
+   as a result of 'stacking'
+
+-> helpers: has some nice scripts there. Developed at the home level so paths
+   are currently probably broken.
+
+-> GoogleCloud: backend.py THE MOST IMPORTANT THING.
+

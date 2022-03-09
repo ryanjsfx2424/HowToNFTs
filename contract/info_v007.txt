@@ -1,0 +1,19 @@
+(remix info)
+
+COMPILER
+  0.8.7+commit.e28d00a7
+
+CONTRACT
+  _NAME: How To V0.0.7
+  _SYMBOL: HOWTOV007
+  _INITBASEURI: ipfs://QmaPWB9qCDi8FS1z3UQpBGC1JFiUkZKSGMZvZLv9WqesJT/
+  _INITNOTREVEALEDURI_: ipfs://Qme5tbaAUqhoL24EYFRh44BkHJcqgmyAWtaXsNg9XPDv88/
+
+Enable optimization: 200
+
+Bytecode in "bytecode_v7.txt"
+
+Contract address: 0x283dEa99360f5Efdf0518de2D8F512352a4BF8a0
+
+ABI from compile page:
+

@@ -1,0 +1,18 @@
+(remix info)
+
+COMPILER
+  0.8.7+commit.e28d00a7
+
+CONTRACT
+  _NAME: How To V0.1.9
+  _SYMBOL: HOWTOV019
+  _INITBASEURI: https://drive.google.com/drive/u/1/folders/1N5WFufLsKx-qciizRFDlUpg_ciq9SMdA
+
+Enable optimization: 200
+
+Bytecode in "bytecode_v19.txt"
+
+Contract address: 0x2229364b4dBcc95EDD7391D651914dA99d3781fB
+(Rinkeby)
+
+ABI from compile page:

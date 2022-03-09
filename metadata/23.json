@@ -1,11 +1,7 @@
 {
   "name":"how to #23",
   "description":"pithy description on how to #23",
-<<<<<<< HEAD
   "image":"https://storage.googleapis.com/how-to-nfts-data/HowToKarate23.mp4",
-=======
-  "image":"https://drive.google.com/drive/u/1/folders/1rA_dxqeL0TApAxRwZPGeK7sr8iJdaUXb/HowToKarate23.mp4",
->>>>>>> 5081ce4afe167c573bcb4312aad6ed6b55704ea7
   "edition":22,
   "compiler": "How To Engine"
 }
